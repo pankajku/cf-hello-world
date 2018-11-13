@@ -1,0 +1,17 @@
+{
+  "name": "gcloud-hello",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "serverless.com",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "3.3.2"
+  },
+  "devDependencies": {
+    "serverless-google-cloudfunctions": "^2.0.0"
+  }
+}
