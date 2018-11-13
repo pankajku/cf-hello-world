@@ -1,6 +1,6 @@
 Cloud Functions
 ---------------
-This code repo is companion to the blog post [Poor Resource Utilization by AWS Serverless Lambdas And How It Impacts Your Applications](https://pankajku.github.io/blog/2018/11/02/poor-resource-utilization-by-aws-serverless-lambdas).
+This code repo is companion to the blog post [Poor Resource Utilization by AWS Serverless Lambdas And How It Impacts Your Applications](https://pankajku.github.io/blog/2018/11/13/poor-resource-utilization-by-aws-serverless-lambdas).
 Sub-directories contain simple HelloWorld cloud functions for a number of Clouds environments:
 
 * [AWS Serverless Lambda](./aws-hello)
